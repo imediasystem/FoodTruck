@@ -1,5 +1,5 @@
 ## 🔥 Project Name - FOODTRUCK
-See the live version of [BOOKKEEPING](https://imediasystem.github.io/FoodTruck/) ↗️
+See the live version of [FOODTRUCK](https://imediasystem.github.io/FoodTruck/) ↗️
 
 
 ## 📚 Technologies / Frameworks / Platforms / Libraries
