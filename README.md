@@ -16,4 +16,6 @@ Experience the taste of professionalism in the digital world! See how this moder
 Some projects uses [node](https://nodejs.org/en/) and [npm](https://www.npmjs.com/). Having them installed, type into the terminal: `npm i`.
 &nbsp;
 
-
+## 🔗 See also
+Are you interested in? See my other projects and visit my website [iMedia SysteM](https://imediasystem.pl/) ↗️
+&nbsp;
